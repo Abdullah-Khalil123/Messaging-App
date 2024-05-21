@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "366756514006",
+    "firebase_url": "https://test-92ed0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "test-92ed0",
+    "storage_bucket": "test-92ed0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366756514006:android:6642d8b07df63a5aa2a177",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXwk9k7MP1pvLCI0IQB_in1WPOCtQZ3Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
